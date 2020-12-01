@@ -1,0 +1,6 @@
+name: Folio
+version: ${project.version}
+main: com.fatihelmas.folio.Main
+api-version: 1.15
+authors: [FatihElmas]
+description: Create your own minecraft plugins with JavaScript or TypeScript.
